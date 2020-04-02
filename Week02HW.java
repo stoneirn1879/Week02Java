@@ -42,8 +42,26 @@ public class Week02HW {
 			System.out.println("It is hot today, I will buy some ice cream!");
 			                          }	
 		else {
-			System.out.println("It is hot, but I don't have enough money!");
+			System.out.println("It is hot, but I don't have enough money for ice cream!");
 			 }
-		}		
+		if (willGoSwimming == true) {
+			System.out.println("Is is hot and I think I will go swimming!");
+									}
+		else {
+			System.out.println("It isn't a good day for a swim.");
+			}
+		if (isAGoodDay == true) {
+			System.out.println("As Ice Cube said, Today was a good day!");			
+								}
+		else {
+			System.out.println("Today was ok. ");
+			 }
+		if (willBuyMilk == true) {
+			System.out.println("I think I will buy some milk today, I am thirsty!");
+								 }
+		else {
+			System.out.println("I am not thirsty today.");
+			}	
+	}		
 		
 }
