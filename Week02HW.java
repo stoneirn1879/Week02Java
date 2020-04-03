@@ -62,6 +62,23 @@ public class Week02HW {
 		else {
 			System.out.println("I am not thirsty today.");
 			}	
+	
+	
+			 /* 5.	Create a new class called Loops. In the main method of this class, create the following loops with any variables you feel are needed:
+			 *a.	A while loop that prints all even numbers from 0 to 100
+			 *b.	A while loop that prints every 3rd number going backwards from 100 until we reach 0
+			 *c.	A for loop that prints every other number from 1 to 100
+			 *d.	A for loop that prints every number from 0 to 100, but if the number is divisible by 3, it prints “Hello” instead of the number, and if the number is divisible by 5, it prints “World” instead of the number, and if it is divisible by both 3 and 5, it prints “HelloWorld” instead of the number.
+			 */
+	
+		
+	
+	
+	
+	
+	
+	
+	
 	}		
 		
 }
