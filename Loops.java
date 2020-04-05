@@ -19,19 +19,29 @@ public class Loops {
 			if (evenNumber % 2 == 0);
 			System.out.println(evenNumber);
 			evenNumber=evenNumber+2;
-			//number++;
-								}
+
+       								}
 
 		int oddNumber = 100;
 		
 		while ( oddNumber > 0) {
 			
-			//if (oddNumber - 3 );
 			System.out.println(oddNumber);
 			oddNumber=oddNumber-3;
+
 								}
 		
-		
+	
+		for (int count = 0; count <= 100; count+=2) 
+		{
+		    System.out.println(count);
+		} 
+		//for (int everyOtherNumber=1; everyOtherNumber<100; everyOtherNumber+=2);
+		//{
+		//
+		//	System.out.println(everyOtherNumber);
+			//everyOtherNumber=everyOtherNumber+2;
+		//}	
 	}
 
 }
