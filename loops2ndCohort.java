@@ -23,7 +23,7 @@ public class loops2ndCohort {
                 System.out.println(i);
             }
 
-            for (int j = 0; j <= 100; j++) {
+            for (int j = 0; j < 101; j++) {
 
                 if ((j % 3 == 0) && (j % 5 == 0)) {
 
@@ -35,7 +35,7 @@ public class loops2ndCohort {
 
                 }else if  (j % 5 == 0) {
 
-                    System.out.println("Hello World");
+                    System.out.println("Hello");
 
                 }else {
 
