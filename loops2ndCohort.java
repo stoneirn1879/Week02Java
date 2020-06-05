@@ -31,11 +31,11 @@ public class loops2ndCohort {
 
                 }else if (j % 3 == 0) {
 
-                    System.out.println("World");
+                    System.out.println("Hello");
 
                 }else if  (j % 5 == 0) {
 
-                    System.out.println("Hello");
+                    System.out.println("World");
 
                 }else {
 
